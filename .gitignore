@@ -9,7 +9,6 @@ output/*embedding.csv
 data/*.csv
 data/*.json
 data/*.tsv
-data/*
 data/os/*.tsv
 data/cvd/*.tsv
 scripts/old
