@@ -1,0 +1,13 @@
+input/textcube_pmid2category.json
+output/os/*embedding.csv
+output/cvd/*embedding.csv
+output/os_cvd/*embedding.csv
+output/*embedding.csv
+data/*.csv
+data/*.json
+data/*.tsv
+data/*
+data/os/*.tsv
+data/cvd/*.tsv
+scripts/old
+scripts/*.ipynb
