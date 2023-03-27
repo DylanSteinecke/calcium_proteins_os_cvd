@@ -1,0 +1,4 @@
+,auroc,auprc,false_omission_rate,prevalence,specificity,positive_likelyhood_ratio,markedness,fowlkes_mallows_index,recall,matthews_correlation_coefficient,threat_score,miss_rate,f1_score,prevalence_threshold,false_discovery_rate,accuracy,balanced_accuracy,negative_likelyhood_ratio,informedness,diagnostic_odds_ratio,precision,fall_out,negative_predictive_value
+0,0.6562980135638115,0.6907961716524216,,0.5793918918918919,0.0,1.0,,0.76117796335147,1.0,,0.5793918918918919,0.0,0.7336898395721925,,0.4206081081081081,0.5793918918918919,0.5,,0.0,,0.5793918918918919,1.0,
+1,0.34370198643618854,0.3342627520566109,,0.4206081081081081,0.0,1.0,,0.6485430657312652,1.0,,0.4206081081081081,0.0,0.5921521997621879,,0.5793918918918919,0.4206081081081081,0.5,,0.0,,0.4206081081081081,1.0,
+2,,,,0.0,0.0,,,,,,0.0,,0.0,,1.0,0.0,,,,,0.0,1.0,
